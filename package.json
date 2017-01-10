@@ -1,6 +1,6 @@
 {
   "name": "indexdb-chunk-store",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A Chunk Store compatible store backed by IndexDB",
   "main": "index.js",
   "scripts": {
